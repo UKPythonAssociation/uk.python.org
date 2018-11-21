@@ -10,3 +10,8 @@ Its objects are:
 > To advance education for the public benefit in the use and understanding of the Python programming language within the UK by organising, presenting and promoting Python related conferences, meetings and events at venues in the UK.
 
 It is the organisation behind [PyCon UK](http://pyconuk.org).
+
+* [More about the UKPA](/about/)
+* [PyCon UK](http://pyconuk.org)
+* Get involved
+* Regional user groups and events
