@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About The UK Python Association
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The UK Python Association (UKPA) is a Charitable Incorporated Organisation (Registered Charity 1173471) registered in England and Wales.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+[Its constitution lives on GitHub](https://github.com/PyconUK/ukpa-constitution).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Its current trustees are:
 
+* Owen Campbell
+* Kristian Glass
+* Daniele Procida
+* Tania Allard
+* Cecilia Liao
 
-[jekyll-organization]: https://github.com/jekyll
+For previous trustees see [Trustees](/about/trustees/).
+
+To contact the trustees, please email [trustees@uk.python.org](mailto:trustees@uk.python.org).
