@@ -10,11 +10,11 @@ The UK Python Association (UKPA) is a Charitable Incorporated Organisation (Regi
 
 Its current trustees are:
 
-* Owen Campbell
-* Kristian Glass
-* Daniele Procida
-* Tania Allard
 * Cecilia Liao
+* Daniele Procida
+* Kristian Glass
+* Owen Campbell
+* Tania Allard
 
 For previous trustees see [Trustees](/about/trustees/).
 
