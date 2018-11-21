@@ -19,7 +19,7 @@ In May 2018, Nicholas Tollarvey resigned as a trustee.
 The 2018 AGM was held at PyCon UK 2018, at which:
 
 * Peter Inglesby and Kristian Glass were required to resign by the constitution, as two of the longest-serving elected trustees
-* Kristian Glass stood for re-election as a trustee and was re-elected
+* Kristian Glass stood for re-election and was re-elected
 * Tania Allard and Cecilia Liao stood for election and were elected
 
 At the conclusion of the 2018 AGM, the trustees were:
