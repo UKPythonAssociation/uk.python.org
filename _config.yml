@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: UK Python Association
+title: The UK Python Association
 email: trustees@uk.python.org
 description: >- # this means to ignore newlines until "baseurl:"
   The UK Python Association is a Charitable Incorporated Organisation (Registered Charity 1173471) registered in England and Wales.
