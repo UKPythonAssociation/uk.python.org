@@ -1,0 +1,9 @@
+# https://www.netlify.com/docs/redirects/
+
+# Compatibility links for the old website, now community.
+# All are 302s because that's way less problematic if there's an error or change!
+
+/events/* http://community.uk.python.org/events/:splat 302
+/groups/* http://community.uk.python.org/groups/:splat 302
+/news/* http://community.uk.python.org/news/:splat 302
+/john-pinner-award/ http://community.uk.python.org/john-pinner-award/ 302
