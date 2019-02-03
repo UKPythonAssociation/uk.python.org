@@ -11,3 +11,5 @@ to keep the main site light and straightforward.
 Kristian Glass / @doismellburning maintains this site.
 
 The live instance is hosted on Netlify at https://pedantic-hoover-d96269.netlify.com/ and auto-deploys from `master` with GitHub hooks.
+
+This replaced https://github.com/PyconUK/community.uk.python.org which now lives at https://community.uk.python.org/
