@@ -14,4 +14,3 @@ It is the organisation behind [PyCon UK](http://pyconuk.org).
 * [More about the UKPA](/about/)
 * [PyCon UK](http://pyconuk.org)
 * [Get involved](mailto:trustees@uk.python.org)
-* [Regional user groups and events](http://community.uk.python.org/)
