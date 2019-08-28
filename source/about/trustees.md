@@ -14,7 +14,7 @@ The current Trustees are:
 
 ## 2018
 
-In May 2018, Nicholas Tollarvey resigned as a trustee.
+In May 2018, Nicholas Tollervey resigned as a trustee.
 
 The 2018 AGM was held at PyCon UK 2018, at which:
 
