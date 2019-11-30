@@ -6,7 +6,7 @@ permalink: /about/
 
 The UK Python Association (UKPA) is a Charitable Incorporated Organisation (Registered Charity 1173471) registered in England and Wales.
 
-[Its constitution lives on GitHub](https://github.com/PyconUK/ukpa-constitution).
+[Its constitution lives on GitHub](https://github.com/UKPythonAssociation/ukpa-constitution).
 
 Its current trustees are:
 
