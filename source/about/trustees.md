@@ -6,10 +6,19 @@ title: Trustees
 The current Trustees are:
 
 * Cecilia Liao
-* Daniele Procida
+* David Spademan
 * Kristian Glass
 * Owen Campbell
 * Tania Allard
+* Vincent Knight
+
+## 2019
+
+The 2019 AGM was held at PyCon UK 2019, at which:
+
+* David Spademan and Vincent Knight stood for election and were elected
+
+Daniele Procida stood down as conference director and ex-officio trustee.
 
 
 ## 2018
