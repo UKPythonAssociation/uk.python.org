@@ -5,11 +5,22 @@ title: Trustees
 
 The current Trustees are:
 
-* Cecilia Liao
-* Daniele Procida
-* Kristian Glass
-* Owen Campbell
 * Tania Allard
+* Owen Campbell
+* Kristian Glass
+* Vincent Knight
+* Cecilia Liao
+* David Spademan
+
+## 2019
+
+The 2019 AGM was held at PyCon UK 2019, at which:
+
+* Owen Campbell was required to resign by the constitution as the longest serving elected trustee
+* Owen Campbell stood for re-election and was re-elected
+* Vincent Knight and David Spademan stood for election and were elected
+
+At the end of October 2019, Daniele Procida resigned as Conference Director and the elected trustees appointed Kristian Glass as his replacement.
 
 
 ## 2018
@@ -38,6 +49,12 @@ In November 2018, Kirk Northrop resigned as a trustee.
 
 
 ## 2017
+
+The UKPA was registered on 19-Jun-2017. Its founding trustees were:
+
+* Owen Campbell
+* Kristian Glass
+* Peter Inglesby
 
 The elected trustees of the UKPA were decided at the first AGM of the UK Python Association, held at PyCon UK 2017.
 They were:
