@@ -16,7 +16,7 @@ The current Trustees are:
 
 The 2019 AGM was held at PyCon UK 2019, at which:
 
-* Owen Campbell was required to resign by the constitution as the longest serving elected trustee
+* Owen Campbell was required to retire by the constitution as the longest serving elected trustee
 * Owen Campbell stood for re-election and was re-elected
 * Vincent Knight and David Spademan stood for election and were elected
 
@@ -29,7 +29,7 @@ In May 2018, Nicholas Tollervey resigned as a trustee.
 
 The 2018 AGM was held at PyCon UK 2018, at which:
 
-* Peter Inglesby and Kristian Glass were required to resign by the constitution, as two of the longest-serving elected trustees
+* Peter Inglesby and Kristian Glass were required to retire by the constitution, as two of the longest-serving elected trustees
 * Kristian Glass stood for re-election and was re-elected
 * Tania Allard and Cecilia Liao stood for election and were elected
 
