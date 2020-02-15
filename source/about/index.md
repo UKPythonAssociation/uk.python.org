@@ -22,3 +22,5 @@ For previous trustees see [Trustees](/about/trustees/).
 To contact the trustees, please email [trustees@uk.python.org](mailto:trustees@uk.python.org).
 
 For information about the history of the UKPA, see [History](/about/history/).
+
+[UKPA Internal Documentation](https://ukpa-internaldocs.readthedocs.io/en/latest/).
