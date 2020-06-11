@@ -1,0 +1,12 @@
+---
+layout: none
+permalink: /.well-known/matrix/client
+---
+{
+    "m.homeserver": {
+        "base_url": "https://ukpa.modular.im"
+    },
+    "m.identity_server": {
+        "base_url": "https://vector.im"
+    }
+}
