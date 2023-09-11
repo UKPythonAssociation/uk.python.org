@@ -11,7 +11,7 @@ Its objects are:
 >    (a) Organising, presenting and promoting Python related conferences, meetings and events at venues within the UK,
 >    (b) Supporting and promoting Python related projects and events organised by UKPA members, and,
 >    (c) Supporting UKPA members wishing to attend Python related conferences, meetings and events.
-> 2. To advance education for the public benefit in the use and understanding of the Python programming language worldwise by supporting and promoting overseas Python related conferences, meetings and events.
+> 2. To advance education for the public benefit in the use and understanding of the Python programming language worldwide by supporting and promoting overseas Python related conferences, meetings and events.
 
 It is the organisation behind [PyCon UK](http://pyconuk.org).
 
