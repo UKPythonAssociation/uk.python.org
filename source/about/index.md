@@ -14,7 +14,6 @@ Its current trustees are:
 * Owen Campbell
 * Kristian Glass
 * Vincent Knight
-* Gail Ollis
 * Becky Smith
 
 To contact the trustees, please email [trustees@uk.python.org](mailto:trustees@uk.python.org).
