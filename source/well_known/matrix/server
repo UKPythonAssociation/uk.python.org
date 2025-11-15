@@ -1,7 +1,0 @@
----
-layout: none
-permalink: /.well-known/matrix/server
----
-{
-    "m.server": "ukpa.modular.im:443"
-}
